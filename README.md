@@ -1,5 +1,5 @@
 # Tic-Tac-Toe
-## Ứng đơn chơi XO với computer 
+## Ứng dụng chơi game XO với computer 
 ### Các chức năng bao gồm:
 - Nhập tên người chơi
 - Chơi game với computer
